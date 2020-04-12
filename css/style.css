@@ -335,7 +335,7 @@ p {
     }
 }
 
-@media (min-width: 515px) {
+@media (min-width: 768px) {
     .sub-form form {
         display: flex;
     }
